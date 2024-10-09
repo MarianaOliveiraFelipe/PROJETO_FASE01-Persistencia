@@ -1,0 +1,48 @@
+/* styles.css */
+.root {
+    -fx-font-family: 'Arial';
+}
+
+#titleLabel {
+    -fx-font-size: 24px;
+    -fx-text-fill: #0076a3;
+    -fx-font-weight: bold;
+}
+
+#descriptionLabel {
+    -fx-font-size: 16px;
+    -fx-text-fill: #555555;
+    -fx-font-style: italic;
+    -fx-margin: 10px 0;
+}
+
+#customButton {
+    -fx-background-color: linear-gradient(#0076a3, #005f8f);
+    -fx-text-fill: white;
+    -fx-font-size: 14px;
+    -fx-padding: 10px 20px;
+    -fx-cursor: hand;
+    -fx-background-radius: 8px;
+    -fx-border-radius: 8px;
+    -fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.3), 10, 0, 0, 0);
+}
+
+#customButton:hover {
+    -fx-background-color: linear-gradient(#005f8f, #004d73);
+}
+
+#customButton:pressed {
+    -fx-background-color: linear-gradient(#004d73, #003a58);
+    -fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.5), 5, 0, 0, 0);
+}
+
+#mainVBox {
+    -fx-background-color: #f9f9f9;
+    -fx-padding: 20px;
+    -fx-spacing: 10px;  /* Ajuste do espaçamento vertical dentro do VBox */
+    -fx-border-color: #0076a3;
+    -fx-border-width: 2px;
+    -fx-border-style: solid;
+    -fx-border-radius: 10px;
+    -fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.1), 10, 0, 0, 0);
+}

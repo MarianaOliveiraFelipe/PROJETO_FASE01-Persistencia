@@ -1,0 +1,31 @@
+
+1,Polichinelo,Cardiovascular,F�cil,10,100,Aquecimento aer�bico
+2,Flex�o de Bra�o,For�a,M�dio,15,200,Exerc�cio de for�a para o peitoral
+3,Agachamento,For�a,F�cil,20,150,Exerc�cio b�sico para pernas
+4,Burpee,Cardiovascular,Dif�cil,10,250,Exerc�cio de alta intensidade
+5,Prancha,For�a,null,5,50,Exerc�cio de Core
+6,Escalador,Cardiovascular,M�dio,10,150,Exerc�cio de corpo inteiro
+7,Afundo,For�a,F�cil,10,100,Exerc�cio para pernas e gl�teos
+8,Abdominal Crunch,For�a,F�cil,10,80,Exerc�cio abdominal
+9,Eleva��o de joelhos,Cardiovascular,F�cil,10,100,Exerc�cio de aquecimento
+10,Supino,For�a,M�dio,20,220,Exerc�cio para peitoral
+11,Levantamento Terra,For�a,Dif�cil,20,300,Exerc�cio de corpo inteiro
+12,Pular Corda,Cardiovascular,F�cil,15,180,Exerc�cio cardiovascular b�sico
+13,Pilates,Flexibilidade,M�dio,45,200,Exerc�cio de pilates
+14,Aquecimento Din�mico,Agilidade,F�cil,10,80,Exerc�cio de aquecimento din�mico
+15,Balan�o com Perna,Equil�brio,F�cil,10,50,Exerc�cio de equil�brio b�sico
+16,Ciclismo,Cardiovascular,M�dio,45,400,Passeio de bicicleta
+17,Barra Fixa,For�a,Dif�cil,10,150,Exerc�cio para costas e bra�os
+18,Yoga,Flexibilidade,F�cil,60,150,Sess�o de yoga para relaxamento
+19,Treino Funcional,Funcional,M�dio,30,300,Treino Funcional completo
+20,Treino em Circuito,Funcional,Dif�cil,45,400,Treino em circuito de alta intensidade
+21,Exerc�cios com Barreiras,Agilidade,Dif�cil,20,200,Treino com barreiras
+22,Ponte de Gl�teo,Mobilidade,M�dio,15,70,Exerc�cio para mobilidade de quadril e gl�teos
+23,Alongamento de Panturrilha,Alongamento,F�cil,10,30,Exerc�cio para alongar a panturrilha
+24,Corrida Leve,Resist�ncia,F�cil,30,200,Corrida de intensidade leve
+25,Remo em M�quina,Resist�ncia,M�dio,20,220,Exerc�cio em m�quina de remo
+26,Marcha Alternada,Coordena��o,F�cil,10,40,Exerc�cio de marcha alternada
+27,Dribles com Bola,Coordena��o,null,10,50,Exerc�cio de dribles com bola
+28,Salto na Caixa,Cardiovascular,M�dio,10,200,Exerc�cio de explos�o
+29,Vira Pneu,For�a,Dif�cil,15,300,Exerc�cio de for�a extrema
+30,Ajoelhamento com Rota��o,Mobilidade,M�dio,15,70,Exerc�cio para mobilidade do tronco
